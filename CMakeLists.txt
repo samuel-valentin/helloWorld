@@ -6,4 +6,4 @@ add_subdirectory(lib)
 SET(ASSIGNMENT_LIB ${PROJECT_NAME})
 
 add_subdirectory(app)
-add_subdirectory(tests)
+#add_subdirectory(tests)
