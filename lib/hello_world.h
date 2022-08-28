@@ -6,6 +6,7 @@
 #define HELLO_WORLD_H
 
 #include <stdio.h>
+#include <string.h>
 
 void simple_hello();
 void greet(char* target);
